@@ -1,0 +1,18 @@
+2023-09-23 14:27:27.9501|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7019 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2023-09-23 14:27:27.9501|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5056 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2023-09-23 14:27:27.9501|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2023-09-23 14:27:27.9501|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2023-09-23 14:27:27.9501|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\EF\WebApplication2\WebApplication2 |url: |action: |Microsoft.Extensions.Hosting.Internal.ApplicationLifetime.NotifyStarted
+2023-09-23 14:27:29.3351|0|INFO|WebApplication2.Controllers.HomeController|开启记录日志操作.. |url: |action: |WebApplication2.Controllers.HomeController.Index
+2023-09-23 14:28:46.4077|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7019 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2023-09-23 14:28:46.4077|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5056 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2023-09-23 14:28:46.4077|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2023-09-23 14:28:46.4077|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2023-09-23 14:28:46.4077|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\EF\WebApplication2\WebApplication2 |url: |action: |Microsoft.Extensions.Hosting.Internal.ApplicationLifetime.NotifyStarted
+2023-09-23 14:28:46.7884|0|INFO|WebApplication2.Controllers.HomeController|开启记录日志操作.. |url: |action: |WebApplication2.Controllers.HomeController.Index
+2023-09-23 14:34:36.1465|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7019 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2023-09-23 14:34:36.1544|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5056 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2023-09-23 14:34:36.1544|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2023-09-23 14:34:36.1544|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2023-09-23 14:34:36.1544|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\EF\WebApplication2\WebApplication2 |url: |action: |Microsoft.Extensions.Hosting.Internal.ApplicationLifetime.NotifyStarted
+2023-09-23 14:34:38.1478|0|INFO|WebApplication2.Controllers.HomeController|开启记录日志操作.. |url: |action: |WebApplication2.Controllers.HomeController.Index
